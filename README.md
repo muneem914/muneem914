@@ -12,6 +12,7 @@
   <li>Front-end developing: React.js, Next.js, Material UI</li>
   <li>Full-stack developing: Node.js, Express.js, Mongodb</li>
   <li>Hosting platforms: github-pages, Netlify, firebase, Heroku</li>
+  <li>Core programming languages: Python, JavaScript (also familier with C++ and TypeScript)</li>
   <li>Also familier with: angular, python, pygame, django, numphy, mathplotlib, pyplot (for data analysis purpose)</li>
 </ul>
 <h5>Visit my <a href="https://abirs-personal-portfolio-test-unit.netlify.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
