@@ -1,4 +1,4 @@
-<h2>Welcome to the Learners' profile...</h2>
+<h1>Welcome to the Learners' profile... 🙂</h1>
 <h3>Short identity</h3>
 <ul>
   <li>I am a Front-end developer and web designer. (a few steps away to becoming a Full-stack developer)</li>
