@@ -11,7 +11,7 @@
   <li>CSS preprocessor: SCSS</li>
   <li>Front-end developing: React.js, Next.js, Material UI</li>
   <li>Full-stack developing: Node.js, Express.js, Mongodb</li>
-  <li>Hosting platforms: github-pages, Netlify, firebase, Heroku</li>
+  <li>Hosting platforms: github-pages, Netlify, firebase, Heroku, vercel</li>
   <li>Core programming languages: Python, JavaScript (also familier with C++ and TypeScript)</li>
   <li>Also familier with: angular, python, pygame, django, numphy, mathplotlib, pyplot (for data analysis purpose)</li>
 </ul>
