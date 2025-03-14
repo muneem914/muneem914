@@ -1,22 +1,26 @@
-<h1>Welcome to the Learners' profile... 🙂</h1>
+<h1>Welcome to my profile</h1>
 <h3>Short identity</h3>
 <ul>
-  <li>I am a Front-end developer and web designer. (a few steps away to becoming a Full-stack developer)</li>
-  <li>Studying at <strong>Khulna university of Engineering & Technology (KUET)</strong> in <strong>Energy Science & Engineering (ESE)</strong> department under Mechanical Faculty.   </li>
-</ul>
-<h3>Tools and technologies I am using: </h3>
-<ul>
-  <li>Front-end designing: HTML5, CSS3</li>
-  <li>Front-end framework: Bootstrap, Semantic-UI, Materialize, MDBootstrap</li>
-  <li>CSS preprocessor: SCSS</li>
-  <li>Front-end developing: React.js, Next.js, Material UI</li>
-  <li>Full-stack developing: Node.js, Express.js, Mongodb</li>
-  <li>Hosting platforms: github-pages, Netlify, firebase, Heroku, vercel</li>
-  <li>Core programming languages: Python, JavaScript (also familier with C++ and TypeScript)</li>
-  <li>Also familier with: angular, python, pygame, django, numphy, mathplotlib, pyplot (for data analysis purpose)</li>
+  <li>Self-taught Full-stack Developer (MERN-stack)</li>
+  <li>Studying at <strong>Khulna university of Engineering & Technology (KUET)</strong> in <strong>Energy Science & Engineering (ESE)</strong> department under Mechanical Faculty.</li>
 </ul>
 <h5>Visit my <a href="https://abirs-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
 
-[![Muneem’s github stats](https://github-readme-stats.vercel.app/api?username=muneem914)](https://github.com/muneem914)
+## My Tech Stack
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneem914&layout=compact)](https://github.com/muneem914)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+## GitHub Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muneem914&show_icons=true&theme=dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneem914&layout=compact&theme=dark&hide_border=true" />
+</p>
