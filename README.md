@@ -16,3 +16,7 @@
   <li>Also familier with: angular, python, pygame, django, numphy, mathplotlib, pyplot (for data analysis purpose)</li>
 </ul>
 <h5>Visit my <a href="https://abirs-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
+
+[![Muneem’s github stats](https://github-readme-stats.vercel.app/api?username=muneem914)](https://github.com/muneem914)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muneem914&layout=compact)](https://github.com/muneem914)
