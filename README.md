@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=muneem914&theme=dark" />
+  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=muneem914&theme=dark&hide_border=true" />
 </p>
