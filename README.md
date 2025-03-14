@@ -21,6 +21,10 @@
 ## GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muneem914&show_icons=true&theme=dark&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneem914&layout=compact&theme=dark&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=muneem914&show_icons=true&theme=dark&&count_private=true&include_all_commits=true&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muneem914&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muneem914&theme=dark" />
 </p>
