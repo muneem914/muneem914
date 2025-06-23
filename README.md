@@ -5,6 +5,7 @@
   <li>Studying at <strong>Khulna university of Engineering & Technology (KUET)</strong> in <strong>Energy Science & Engineering (ESE)</strong> department under Mechanical Faculty.</li>
 </ul>
 <h5>Visit my <a href="https://abirs-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
+### [Download Resume](https://drive.google.com/file/d/13ijwYd7TQqz970ZnM_Qy57G1FeQSh-Ki/view?usp=sharing)
 
 ## My Tech Stack
 
