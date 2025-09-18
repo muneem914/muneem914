@@ -4,9 +4,9 @@
   <li>Self-taught Full-stack Developer (MERN-stack)</li>
   <li>Studying at <strong>Khulna university of Engineering & Technology (KUET)</strong> in <strong>Energy Science & Engineering (ESE)</strong> department under Mechanical Faculty.</li>
 </ul>
-<h5>Visit my <a href="https://muneem-hussain.vercel.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
+<h5>Visit my new <a href="https://muneem-hussain.vercel.app/" target="_blank">Portfolio</a>. You can <a href="mailto:muneem914@gmail.com">Mail me</a> for any query.</h5>
 <h5>Visit my old school <a href="https://abirs-personal-portfolio.netlify.app/" target="_blank">Portfolio</a>. Which is not maintained anymore.</h5>
-<p style="color: orangered;">N.B. Portfolio is not maintained anymore.</p>
+<p style="color: orangered;">N.B. Old portfolio is not maintained anymore.</p>
 <h3 style="text-align: center;">
     <a href="https://drive.google.com/file/d/13ijwYd7TQqz970ZnM_Qy57G1FeQSh-Ki/view?usp=sharing" target="_blank" 
        style="display: inline-block; 
